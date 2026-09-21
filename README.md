@@ -10,4 +10,4 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[LinkedIn](https://linkedin.com/in/joaoraphael103)
+- <b>[LinkedIn](https://linkedin.com/in/joaoraphael103)</b>
