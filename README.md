@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Helpdesk Homelab</b>
-  - [title](https://github.com/joao-c-raphael/)
+  - [title](https://github.com/joao-c-raphael/helpdesk-homelab)
 
 <h2>🏅 Certifications</h2>
 
