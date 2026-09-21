@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joao! 👋<br/>
+<h1>Hi, I'm Joao!<br/>
 
 <h2>👨‍💻 IT Projects:</h2>
 
