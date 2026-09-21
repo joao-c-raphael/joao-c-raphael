@@ -2,12 +2,11 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>Helpdesk Homelab</b>
-  - [title](https://github.com/joao-c-raphael/helpdesk-homelab)
+- <b>[Helpdesk Homelab](https://github.com/joao-c-raphael/helpdesk-homelab)</b>
 
 <h2>🏅 Certifications</h2>
 
-- [CompTIA A+]()
+- <b>[CompTIA A+]()</b>
 
 <h2> 🤳 Connect with me:</h2>
 
