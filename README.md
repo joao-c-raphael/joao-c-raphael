@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>[Helpdesk Homelab](https://github.com/joao-c-raphael/helpdesk-homelab)</b>
+- <b>[Windows Server Lab](https://github.com/joao-c-raphael/helpdesk-homelab)</b>
 
 <h2>🏅 Certifications</h2>
 
