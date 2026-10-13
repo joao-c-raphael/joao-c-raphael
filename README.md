@@ -6,7 +6,7 @@
 
 <h2>🏅 Certifications</h2>
 
-- <b>[CompTIA A+]()</b>
+- <b>[CompTIA A+](https://github.com/joao-c-raphael/comptia-a/blob/main/CompTIA%20A%2B%20ce%20certificate.pdf)</b>
 
 <h2> 🤳 Connect with me:</h2>
 
