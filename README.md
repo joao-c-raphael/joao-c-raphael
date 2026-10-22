@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>[Windows Server Lab](https://github.com/joao-c-raphael/helpdesk-homelab)</b>
-- <b>[Windows Server 2025 Active Directory Home Lab](https://github.com/joao-c-raphael/)</b>
+- <b>[Windows Server 2025 Active Directory Home Lab](https://github.com/joao-c-raphael/Windows-Server-2025-AD-HomeLab)</b>
 
 <h2>🏅 Certifications</h2>
 
