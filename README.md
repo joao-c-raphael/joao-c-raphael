@@ -3,6 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>[Windows Server 2025 Active Directory Home Lab](https://github.com/joao-c-raphael/Windows-Server-2025-AD-HomeLab)</b>
+- <b>[osTicket Docker Home Lab](https://github.com/joao-c-raphael/)</b>
 
 <h2>🏅 Certifications</h2>
 
